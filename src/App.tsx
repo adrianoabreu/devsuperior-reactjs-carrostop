@@ -1,4 +1,3 @@
-import './App.css'
 import Catalog from './routes/Catalog';
 
 function App() {
